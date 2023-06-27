@@ -1,0 +1,35 @@
+1) what is PHP...?
+ -php stands for-personal home page
+
+-php means preprocecer hypertext
+
+- php is server side scripting language php programe are run required server's 
+like (wamp server)etc...
+
+-php is a interprited language there are no compiled 
+so php is pterprited language 
+
+-php is embeded with the <html>
+
+- php is programe and object oriented language 
+
+- php is used to create dynamic webpages and websites 
+
+-php was created by rumus ledorf in 1994 but this langauage are apperd in market 1995
+
+- php is platform independent language becoz php programe are run any type of opreting system 
+like (windows linux ubantu etc...)
+
+-php is open source language (free of cost) in market 
+php is case sensitive langauge 
+
+syntax :-
+<?php
+----------------
+   ------  -------
+------ ----  ----
+-- ------  -------
+-------- ---
+?>
+
+
