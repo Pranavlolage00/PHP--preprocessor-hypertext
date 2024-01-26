@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="demo.css" ?>
+    <movie>
+      <category type="Horror">
+         <movie_name>NARUTO</movie_name>
+         <actor_name>SASUK</actor_name>
+         <release_year>2005</release_year>
+     </category>
+      <category type="Action">
+         <movie_name>HANUMAN</movie_name>
+         <actor_name>OM</actor_name>
+         <release_year>2024</release_year>
+     </category>
+      <category type="classical">
+         <movie_name>SALAR</movie_name>
+         <actor_name>PRABHAS</actor_name>
+         <release_year>2024</release_year>
+     </category>
+    </movie>
+
+      

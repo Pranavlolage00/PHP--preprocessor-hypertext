@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>   
+<sci>
+  <name>om</name>
+  <class>TYBBACA</class>
+  <per>45.5</per>
+</sci>
+<sci>
+  <name>sai</name>
+  <class>TYBBACA</class>
+  <per>70.5</per>
+</sci>
+<sci>
+  <name>ram</name>
+  <class>TYBBACA</class>
+  <per>65.5</per>
+</sci>
+</course>

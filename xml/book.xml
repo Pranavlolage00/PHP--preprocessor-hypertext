@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+   <lib>
+   <book>
+   <name>PHP</name>
+   <author>balguru</author>
+   <price>450</price>
+   </book>
+   <book>
+   <name>C-Lang</name>
+   <author>denius ritchi</author>
+   <price>45</price>
+   </book>
+   <book>
+   <name>java</name>
+   <author>mr.patil</author>
+   <price>784</price>
+   </book>
+   </lib>
+
+   

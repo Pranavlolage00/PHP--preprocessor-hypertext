@@ -1,0 +1,13 @@
+
+movie_name{
+             font-family:lato hairline;
+             color:red;
+             font-size:3;
+             align-self:center;
+              
+         }
+         actor_name
+         {
+            border-style: double;
+            border-color: blue;
+         }
