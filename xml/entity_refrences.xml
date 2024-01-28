@@ -1,0 +1,17 @@
+<college>
+  <student>
+   <rno>&apos;101&apos;</rno>
+   <name>om&amp;sai</name>
+   <per>81.0</per>
+  </student>
+  <student>
+   <rno>102</rno>
+   <name>sai</name>
+   <per>56.0</per>
+  </student>
+  <student>
+   <rno>&lt;103&gt;</rno>
+   <name>ram</name>
+   <per>54.0</per>
+  </student>
+</college>  
