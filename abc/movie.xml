@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+  <movie_info Category="Clasical">
+     <mname>Danagl</mname>
+     <rel_year>2024</rel_year>
+     <actor>Amir Khaan</actor>
+     <budget>450000</budget>
+  </movie_info>
+  <movie_info Category="Horror">
+     <mname>1999</mname>
+     <rel_year>2011</rel_year>
+     <actor>Unkonwn</actor>
+     <budget>451611</budget>
+  </movie_info>
+  <movie_info Category="Action">
+     <mname>KGF-Chapter:1</mname>
+     <rel_year>2015</rel_year>
+     <actor>Yash</actor>
+     <budget>120000</budget>
+  </movie_info>
+</movie>

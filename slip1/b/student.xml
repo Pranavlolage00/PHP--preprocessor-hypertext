@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<student>
+<stud>
+<rollno>111</rollno>
+<name>Dipali</name>
+<address>pune</address>
+<college>FCC</college>
+<course>SYBCA</course>
+</stud>
+<stud>
+<rollno>222</rollno>
+<name>Virat</name>
+<address>pune</address>
+<college>FC</college>
+<course>FYBCA</course>
+</stud>
+</student>

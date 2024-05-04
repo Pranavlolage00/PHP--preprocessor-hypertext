@@ -1,0 +1,20 @@
+<game>
+   <palyer_info>
+   <name>Aniket</name>
+   <country>India</country>
+   <wickets>105</wickets>
+   <runs>1500</runs>
+   </palyer_info>
+   <palyer_info>
+   <name>Suarj</name>
+   <country>ruus</country>
+   <wickets>45</wickets>
+   <runs>750</runs>
+   </palyer_info>
+   <palyer_info>
+   <name>Kshitij</name>
+   <country>Pakistan</country>
+   <wickets>150</wickets>
+   <runs>450</runs>
+   </palyer_info>
+</game>
