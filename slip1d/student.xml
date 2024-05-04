@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+<stud id='1'>
+      <course>BCA</course>
+      <rno>101</rno>
+      <sname>om</sname>
+      <address>shrirampur</address>
+      <collage>CDJ</collage>
+</stud>
+<stud id='2'>
+      <course>BCS</course>
+      <rno>102</rno>
+      <sname>sai</sname>
+      <address>PUNE</address>
+      <collage>DY-PATIL</collage>
+</stud>
+<stud id='3'>
+      <course>BSC</course>
+      <rno>103</rno>
+      <sname>kshitij</sname>
+      <address>Karachi</address>
+      <collage>Alifa</collage>
+</stud>
+</student>
