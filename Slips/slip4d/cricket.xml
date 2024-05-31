@@ -1,0 +1,26 @@
+<game>
+<cricket>
+<player>Sachin Tendulkar</player>
+<runs>2000</runs>
+<wickets>100</wickets>
+<noofnotout>20</noofnotout>
+</cricket>
+<cricket>
+<player>hardik pandya</player>
+<runs>3000</runs>
+<wickets>45</wickets>
+<noofnotout>10</noofnotout>
+</cricket>
+<cricket>
+<player>virat kohli</player>
+<runs>650</runs>
+<wickets>5</wickets>
+<noofnotout>11</noofnotout>
+</cricket>
+<cricket>
+<player>Rohit sharma</player>
+<runs>1200</runs>
+<wickets>300</wickets>
+<noofnotout>20</noofnotout>
+</cricket>
+</game>
